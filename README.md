@@ -38,6 +38,6 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=discord"/>](https://discord.com)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VitorBogo&theme=burnt-neon&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VitorBogo&theme=burnt-neon&exclude_days=Sun%2CSat&border_radius=8)](https://git.io/streak-stats)
 
 <br>
