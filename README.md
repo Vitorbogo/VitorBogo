@@ -1,21 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2835AF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;You+Can+Call+Me+Bogo;)](https://git.io/typing-svg)
 
-<div align="center">
-</div>
-
-<div style="display: flex; flex-wrap: wrap;">
-<br>
-
-<div align="center" style="margin-bottom:200px">
- <img width=53%  align="center" src="https://github-readme-stats.vercel.app/api?username=VitorBogo&theme=transparent&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorBogo&layout=compact&theme=transparent" />
-</div>
-</div>
-
-<br>
-
-</p>
-
 ## Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
